@@ -134,8 +134,8 @@ body {
 @media screen and (max-width: 500px) {
   .six .hat {
     width: 50px;
-    top: -80px; /* Adjust the negative value to position it correctly on mobile */
-    left: 70%; /* Center the element on the screen */
+    top: -400px; /* Adjust the negative value to position it correctly on mobile */
+    left: 200%; /* Center the element on the screen */
     transform: translateX(-50%); /* Center the element horizontally */
   }
 }
