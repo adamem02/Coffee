@@ -130,6 +130,17 @@ body {
   z-index: 2;
 }
 
+/* Adjustments for mobile devices */
+@media screen and (max-width: 500px) {
+  .six .hat {
+    width: 50px;
+    top: -40px; /* Adjust the negative value to position it correctly on mobile */
+    left: 50%; /* Center the element on the screen */
+    transform: translateX(-50%); /* Center the element horizontally */
+  }
+}
+
+
 
 .baloons img {
   display: inline-block;
