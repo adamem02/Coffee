@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: -86px; /* Increase the negative value to move the element more on top */
-  left: 50%; 
+  left: 70%; 
   z-index: 2;
 }
 
