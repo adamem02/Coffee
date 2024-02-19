@@ -120,16 +120,13 @@ body {
   display: inline-block;
   max-width: 45%;
   height: auto;
-  position: relative;
-  top: 20px; /* Adjust the top value to move the images more down */
+  position: relative; 
 }
-
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -25px;
-  left: 55%;
-  /* transform: scale(0.1); */
+  top: -15px; 
+  left: 25%; 
   z-index: 2;
 }
 
