@@ -124,8 +124,8 @@ body {
 }
 .six .hat {
   position: absolute;
-  width: 85px;
-  top: -68px; /* Increase the negative value to move the element more on top */
+  width: 80px;
+  top: -75px; /* Increase the negative value to move the element more on top */
   left: 45%; 
   z-index: 2;
 }
