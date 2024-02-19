@@ -125,11 +125,10 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -15px; 
+  top: -30px; /* Increase the negative value to move the element more on top */
   left: 25%; 
   z-index: 2;
 }
-
 
 
 .baloons img {
