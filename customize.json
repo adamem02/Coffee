@@ -1,9 +1,9 @@
 {
   "greeting": "Hi",
   "name": "Lupita",
-  "greetingText": "I hope you are having a good name",
-  "wishText": "May you always have the best tasting coffee :)",
-  "imagePath": "img/lydia2.png",
+  "greetingText": "I hope you are having a good day",
+  "wishText": "May you always have the best coffee :)",
+  "imagePath": "img/kermit.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yayy you are 22 now",
   "sendButtonLabel": "Send",
